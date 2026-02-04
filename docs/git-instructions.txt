@@ -1,0 +1,8 @@
+1.-} Inicializar el repositorio:
+    git init
+
+2.-} Indicar donde se encuentra el repositorio remoto
+    git remote add origin url-repositorio
+
+3.-} Añadir todo al stage
+    git add .
